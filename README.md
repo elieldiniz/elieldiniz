@@ -1,8 +1,11 @@
 ### ola! Sou Eliel Diniz 🤝
 
 [![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://sujeitoprogramador.com)
-[![intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador.com)
+
 ![eliel diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=Elieldiniz&show_icons=true&theme=radical)
+
+[![intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador.com)
+
 
 ## tecnologias que eu uso no meu dia a dia
 <div style="display:anline_block"></br>
