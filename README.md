@@ -2,7 +2,7 @@
 
 [![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://sujeitoprogramador.com)
 
-![eliel diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=Elieldiniz&show_icons=true&theme=radical)
+![eliel diniz](https://github-readme-stats.vercel.app/api?username=Elieldiniz&show_icons=true&theme=radical)
 
 [![intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador.com)
 
