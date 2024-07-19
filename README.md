@@ -1,3 +1,3 @@
 Eliel Diniz 🤝
 
-![eliel diniz](https://github-readme-stats.vercel.app/api?username=Elieldiniz&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
