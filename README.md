@@ -26,13 +26,6 @@
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elieldiniz&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elieldiniz&theme=tokyonight&hide_border=true&background=1a1b27" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elieldiniz&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=110&section=footer" />
