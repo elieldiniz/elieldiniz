@@ -9,16 +9,24 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/elieldiniz1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Rond%C3%B4nia-Brasil-bb9af7?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://komarev.com/ghpvc/?username=elieldiniz&style=for-the-badge&color=7aa2f7&label=VISITAS" />
 </p>
 
 <p align="center">
-  Desenvolvedor full stack focado em <b>automação de processos</b> e <b>IA aplicada</b>.<br/>
-  Hoje estudando agentic loops e harness engineering.
+  Desenvolvedor full stack com foco em <b>automação</b> e <b>IA</b>.<br/>
+  Construo SaaS, integrações e agentes de IA que resolvem problemas reais de negócio.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,ts,nodejs,nestjs,react,nextjs,tailwind,python,electron,postgres,redis,docker,git,linux&perline=15" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,ts,nodejs,nestjs,react,nextjs,tailwind,python,electron,postgres,mysql,sqlite,redis,docker,git,github,githubactions,linux,vscode,postman,figma&perline=13" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel%20Cloud-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" />
 </p>
 
 <p align="center">
